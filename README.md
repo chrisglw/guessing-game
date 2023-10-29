@@ -18,7 +18,7 @@ The primary purpose of developing this software is to:
 - Implement basic error handling and user input validation.
 - Showcase my skills and knowledge to potential employers or collaborators.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/kI7KaBTT83M)
 
 # Development Environment
 
